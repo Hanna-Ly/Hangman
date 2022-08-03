@@ -1,5 +1,5 @@
 # Hangman
-Õpilastele jagamiseks täienduste tegemiseks
+Õpetaja poolt tehtud fail, mida pidin täiendama.
 
 ## Mängu Hangman funktsionaalsuse lisamine
 Mängus on graafiline osa kõik tehtud ning lisaks on ka osa funktsionaalsust olemas. Näiteks on vaadatav edetabel ja arvatavad sõnad koos 
